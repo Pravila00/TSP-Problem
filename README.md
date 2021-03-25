@@ -4,7 +4,10 @@ the distances  between each pair of cities, what is the shortest possible route 
 
 # Algorithms used
   **a)** Greedy
+  
   **b)** Dynamic Programming (DP)
+  
   **c)** Branch and Bound
+  
   **d)** Backtracing
 
